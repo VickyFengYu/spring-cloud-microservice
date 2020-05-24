@@ -1,6 +1,6 @@
 # spring-cloud-microservice
 
-&#8194;&#8194; ![enter image description here](https://github.com/VickyFengYu/springboot-kafka/blob/master/image/microservice.png?raw=true)
+&#8194;&#8194; ![enter image description here](https://github.com/VickyFengYu/spring-cloud-microservice/blob/master/image/microservice.png?raw=true)
 
 ## <i class="icon-folder-open"></i> Register Okta
 
@@ -16,19 +16,20 @@ Which need to be configured in application.properties
 
 Applications-> Add Application-> Web-> Login redirect URIs (http://localhost:8080/login/oauth2/code/okta)-> Check (Authorization Code & Refresh Token)-> Done
 
-![enter image description here](https://github.com/VickyFengYu/springboot-kafka/blob/master/image/client-credentials.jpg?raw=true)
+![enter image description here](https://github.com/VickyFengYu/
+spring-cloud-microservice/blob/master/image/client-credentials.jpg?raw=true)
 
 
 API-> Authorization Servers-> Issuer URI
 
-![enter image description here](https://github.com/VickyFengYu/springboot-kafka/blob/master/image/authorization-servers.jpg?raw=true)
+![enter image description here](https://github.com/VickyFengYu/spring-cloud-microservice/blob/master/image/authorization-servers.jpg?raw=true)
 
 
 ## <i class="icon-folder-open"></i> Start Application
 
 #### <i class="icon-folder-open"></i> [http://localhost:8761/](http://localhost:8761/)
 
-![enter image description here](https://github.com/VickyFengYu/springboot-kafka/blob/master/image/eureka-service.jpg?raw=true)
+![enter image description here](https://github.com/VickyFengYu/spring-cloud-microservice/blob/master/image/eureka-service.jpg?raw=true)
 
 
 #### <i class="icon-folder-open"></i> [http://localhost:8080/index](http://localhost:8080/index)
