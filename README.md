@@ -16,9 +16,7 @@ Which need to be configured in application.properties
 
 Applications-> Add Application-> Web-> Login redirect URIs (http://localhost:8080/login/oauth2/code/okta)-> Check (Authorization Code & Refresh Token)-> Done
 
-![enter image description here](https://github.com/VickyFengYu/
-spring-cloud-microservice/blob/master/image/client-credentials.jpg?raw=true)
-
+![enter image description here](https://github.com/VickyFengYu/spring-cloud-microservice/blob/master/image/client-credentials.jpg?raw=true)
 
 API-> Authorization Servers-> Issuer URI
 
